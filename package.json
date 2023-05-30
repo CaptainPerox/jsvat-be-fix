@@ -1,5 +1,5 @@
 {
-  "name": "jsvat",
+  "name": "jsvat-be-fix",
   "version": "2.5.3",
   "description": "Check the validity of the format of an EU VAT number",
   "main": "./lib/commonjs/index.js",
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/se-panfilov/jsvat.git"
+    "url": "git://github.com/CaptainPerox/jsvat-be-fix.git"
   },
   "bugs": {
     "url": "https://github.com/se-panfilov/jsvat/issues"
